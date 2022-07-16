@@ -29,8 +29,10 @@ Top languages
 <!--START_SECTION:waka-->
 
 ```text
-Java      2 hrs 9 mins    ████████████████████████▓   98.52 %
-Haskell   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+From: 08 July 2022 - To: 15 July 2022
+
+Java      2 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.52 %
+Haskell   1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.48 %
 ```
 
 <!--END_SECTION:waka-->
